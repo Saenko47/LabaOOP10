@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|c:\\users\\aleks\\source\\repos\\labaoop10\\gensoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|solutionrelative:gensoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|c:\\users\\aleks\\source\\repos\\labaoop10\\militaryregistr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|solutionrelative:militaryregistr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|c:\\users\\aleks\\source\\repos\\labaoop10\\militarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|solutionrelative:militarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|c:\\users\\aleks\\source\\repos\\labaoop10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651AFCB-C12B-4255-BD9D-6FD7A271DF5A}|LabaOOP10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\GenSoldier.cs",
+              "RelativeDocumentMoniker": "GenSoldier.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\GenSoldier.cs",
+              "RelativeToolTip": "GenSoldier.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:29:08.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MilitaryRegistr.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\MilitaryRegistr.cs",
+              "RelativeDocumentMoniker": "MilitaryRegistr.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\MilitaryRegistr.cs",
+              "RelativeToolTip": "MilitaryRegistr.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:20:31.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MilitaryCard.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\MilitaryCard.cs",
+              "RelativeDocumentMoniker": "MilitaryCard.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\MilitaryCard.cs",
+              "RelativeToolTip": "MilitaryCard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:05:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\LabaOOP10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:03:36.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
