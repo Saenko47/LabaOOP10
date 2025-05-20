@@ -8,7 +8,7 @@ using static LabaOOP10.MilitaryCard;
 
 namespace LabaOOP10
 {
-    internal class MilitaryCard
+    public class MilitaryCard
     {
         public string pattern = @"^([А-ЯІЇЄҐ][а-яіїєґ]+)\s([А-ЯІЇЄҐ][а-яіїєґ]+)\s([А-ЯІЇЄҐ][а-яіїєґ]+)$";
         public enum suitability { unattributed, unattributedWithSecondGlance,suitableWithException,suitable,temporaryUnattributed}
