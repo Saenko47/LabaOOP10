@@ -11,10 +11,10 @@
             
             Console.WriteLine();
             
-            militaryRegistr.SaveToFileXml("oeo.txt", militaryCards);
+            militaryRegistr.SaveToFileJson("data/oeo.txt", militaryCards);
             Console.WriteLine("Data saved to file.");
             MilitaryRegistr milReg = new MilitaryRegistr();
-            milReg.LoadFromFileXml("oeo.txt");
+            milReg.LoadFromFileJson("data/oeo.txt");
             milReg.ShowAllMilitaryCards();
           
 

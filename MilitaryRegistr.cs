@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
@@ -61,7 +62,12 @@ namespace LabaOOP10
         }
         public void SaveToFileJson(string path, MilitaryCard[] soldeirs)
         {
-            if(!File.Exists(path))
+            string? directory = Path.GetDirectoryName(path);
+            if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
+            {
+                Directory.CreateDirectory(directory);
+            }
+            if (!File.Exists(path))
             {
                 File.Create(path).Close();
             };
@@ -77,6 +83,11 @@ namespace LabaOOP10
         }
         public void SaveToFileXml(string path, MilitaryCard[] soldeirs)
         {
+            string? directory = Path.GetDirectoryName(path);
+            if (!string.IsNullOrEmpty(directory) && !Directory.Exists(directory))
+            {
+                Directory.CreateDirectory(directory);
+            }
             if (!File.Exists(path))
             {
                 File.Create(path).Close();
